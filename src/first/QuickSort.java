@@ -2,6 +2,7 @@ package first;
 
 import util.Sort;
 
+import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
@@ -15,33 +16,30 @@ public class QuickSort<T extends Comparable<T>> extends Sort<T> {
     @Override
     public void sort(T[] nums) {
         shuffle(nums);
-        sort(nums,0,nums.length);
+        sort(nums,0,nums.length - 1);
     }
     public void sort(T[] nums,int lo,int hi){
-        if (hi <= lo + 1)
+        if (lo >= hi)
             return;
-        int j = partition(nums,lo,hi);
-        sort(nums,j + 1,hi);
-        sort(nums,lo,j);
+        int index = partition(nums,lo,hi);
+        sort(nums,lo,index - 1);
+        sort(nums,index + 1,hi);
     }
-    private int partition(T nums[],int lo,int hi){
-        int i = lo, j = hi;
+    private int partition (T[] nums,int lo,int hi){
         T v = nums[lo];
+        int i = lo,j = hi + 1;
         while (true){
-            //扫描左数组，出现nums[i]>v终止
-            while (less(nums[++i],v) && i != hi - 1);
-            //扫描左数组，出现nums[j]<v终止
-            while (less(v,nums[--j]) && j != lo);
-            if (i >= j ) break;
-            //交换i,j
+            while(less(nums[++i],v)) if (i == hi) break;
+            while(less(v,nums[--j])) if (j == lo) break;
+            if (i >= j)
+                break;
             swap(nums,i,j);
         }
-        //指针相遇或i,j到达尽头，将lo和左子数组最右侧元素交换
         swap(nums,lo,j);
         return j;
     }
     private void shuffle(T[] nums){
-        List<Comparable> list = Arrays.asList(nums);
+        List<T> list =  Arrays.asList(nums);
         Collections.shuffle(list);
         list.toArray(nums);
     }

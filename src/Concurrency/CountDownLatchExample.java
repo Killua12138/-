@@ -21,5 +21,4 @@ public class CountDownLatchExample {
         System.out.println("end");
         exec.shutdownNow();
     }
-
 }

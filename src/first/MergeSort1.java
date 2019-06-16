@@ -10,7 +10,7 @@ public class MergeSort1<T extends Comparable<T>> extends MergeSort<T> {
         aux = (T[]) new Comparable[nums.length];
         for (int sz = 1; sz < nums.length; sz += sz) {
             for (int i = 0; i < nums.length - sz; i += 2 * sz) {
-                merge(nums, i, i + sz - 1, Math.min(i + sz + sz - 1, nums.length - 1));
+                merge(nums, i, i + sz, Math.min(i + sz + sz, nums.length));
             }
         }
     }

@@ -10,9 +10,9 @@ import util.TestSort;
  */
 public class Selection<T extends Comparable<T>> extends Sort<T> {
     public void sort(T[] nums){
-        for (int i = 0; i < nums.length; i++){
+        for(int i = 0; i < nums.length; i++){
             int min = i;
-            for (int j = i; j < nums.length; j++){
+            for (int j = i; j < nums.length;j++){
                 if (less(nums[j],nums[min]))
                     min = j;
             }

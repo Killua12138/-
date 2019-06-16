@@ -7,18 +7,18 @@ import util.Sort;
  * @param <T>
  */
 public class MergeSort<T extends Comparable<T>> extends Sort<T> {
-
     protected T[] aux;
+    @Override
     public void sort(T[] nums) {
         aux = (T[]) new Comparable[nums.length];
-        sort(nums,0,nums.length - 1);
+        sort(nums,0,nums.length);
     }
     public void sort(T[] nums,int lo,int hi){
-        if(hi - lo < 1)
+        if (hi <= lo + 1)
             return;
-        int mid = (lo + hi)/2;
+        int mid = lo + (hi - lo) / 2;
         sort(nums,lo,mid);
-        sort(nums,mid + 1,hi);
+        sort(nums,mid,hi);
         merge(nums,lo,mid,hi);
     }
     /**
@@ -28,19 +28,18 @@ public class MergeSort<T extends Comparable<T>> extends Sort<T> {
      * @param mid
      * @param hi
      */
-    protected void merge(T[] nums,int lo,int mid,int hi){
-        int i = lo,j = mid + 1;
-        for(int k = lo; k <= hi; k++)
+    public void merge(T[] nums,int lo,int mid,int hi){
+        if (less(nums[mid - 1],nums[mid]))
+            return;;
+        int i = lo,j  = mid;
+        for (int k = lo; k < hi; k++)
             aux[k] = nums[k];
-        for (int k = lo; k <= hi; k++){
-            if (i > mid)
-                nums[k] = aux[j++];
-            else if (j > hi)
-                nums[k] = aux[i++];
-            else if (less(aux[j],aux[i]))
-                nums[k] = aux[j++];
+        for (int k = lo; k < hi; k++){
+            if (i >= mid) nums[k] = aux[j++];
+            else if (j >= hi) nums[k] = aux[i++];
             else
-                nums[k] = aux[i++];
+                nums[k] = less(aux[i],aux[j]) ? aux[i++] : aux[j++];
         }
     }
+
 }

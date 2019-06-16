@@ -2,10 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ef9ad08-a53d-4abc-8dc9-fd9c7bcdfbad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TypeInfo/DynamicProxyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeInfo/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TryReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency/TestJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/CheckPossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MySqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/SingleNonDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/first/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/first/Insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/first/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/first/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/first/MergeSort1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/first/MergeSort1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/first/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/first/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/first/Shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/first/Shell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/leetcode/SortColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/leetcode/SortColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/util/TestSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/util/TestSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annoation/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Annoation/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annoation/FruitColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Annoation/FruitColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annoation/FruitInfoUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Annoation/FruitInfoUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annoation/FruitName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Annoation/FruitName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Annoation/FruitProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Annoation/FruitProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/AtomicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/AtomicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/BlockQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/BlockQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/CountDownLatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/CountDownLatchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/FutureTaskDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/FutureTaskDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/TestCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/TestJoinA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/TestJoinA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/TestWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/TestWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/WaxMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/WaxMatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Concurrency/WaxOMatic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concurrency/WaxOMatic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic/GenericReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/GenericReading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic/GenericWriting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/GenericWriting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generic/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generic/Part.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/MergeSort1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/MergeSort1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Selection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/Selection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/first/Shell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/first/Shell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jianzhi/ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jianzhi/ReConstructBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/DeleteDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DeleteDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/DiffWaysToCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/DiffWaysToCompute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/GenerateTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/GenerateTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/IsInterleave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/IsInterleave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/MergeKLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/MergeKLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/NumTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/NumTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/SearchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/SearchMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/SetZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/SetZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/SortColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/SortColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/AbstractTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/CloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TryReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TryReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/TestSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +69,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TypeInfo/SimpleProxyDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/CallableTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="266">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TypeInfo/DynamicProxyHandler.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="1251" column="19" selection-start-line="1251" selection-start-column="19" selection-end-line="1251" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/CountDownLatchExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/CheckPossibility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/MySqrt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/SingleNonDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/TestWait.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,11 +134,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/TryReturn.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/TestJoinA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="114">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/LiftOff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Concurrency/TestJoin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -52,15 +170,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>equal</find>
       <find>transform</find>
       <find>Collections.addAll(dir.pa)</find>
+      <find>equal</find>
+      <find>reConstructBinaryTree</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -69,57 +189,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/IsPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/JVM/Father.java" />
-        <option value="$PROJECT_DIR$/src/util/Word.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/MyPow.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/PermuteUnique.java" />
-        <option value="$PROJECT_DIR$/src/Concurrency/Monney.java" />
-        <option value="$PROJECT_DIR$/src/Concurrency/ThreadPrintTest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/CombinationSum2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/GroupAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ReverseKGroup.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/searchInsert.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/InvertTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SearchInsert.java" />
-        <option value="$PROJECT_DIR$/src/Monney/Pontifex.java" />
-        <option value="$PROJECT_DIR$/src/Monney/EncrypAndDecryp.java" />
-        <option value="$PROJECT_DIR$/src/util/TEAUtil.java" />
-        <option value="$PROJECT_DIR$/src/Monney/CommentWrap.java" />
-        <option value="$PROJECT_DIR$/src/Monney/test.java" />
-        <option value="$PROJECT_DIR$/src/test/MatrixInverse.java" />
-        <option value="$PROJECT_DIR$/src/IO/DirList.java" />
-        <option value="$PROJECT_DIR$/src/IO/DirList2.java" />
-        <option value="$PROJECT_DIR$/src/IO/PPrint.java" />
-        <option value="$PROJECT_DIR$/src/IO/Directory.java" />
-        <option value="$PROJECT_DIR$/src/IO/BufferedInputFile.java" />
-        <option value="$PROJECT_DIR$/src/IO/MemoryInput.java" />
-        <option value="$PROJECT_DIR$/src/IO/FormattedMemoryInput.java" />
-        <option value="$PROJECT_DIR$/src/IO/BasicFileOutput.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/isSameTree.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/IsSameTree.java" />
-        <option value="$PROJECT_DIR$/src/IO/FileOutputShortcut.java" />
-        <option value="$PROJECT_DIR$/src/IO/StoringAndRecoveringData.java" />
-        <option value="$PROJECT_DIR$/src/IO/UsingRandomAccessFile.java" />
-        <option value="$PROJECT_DIR$/src/IO/Echo.java" />
-        <option value="$PROJECT_DIR$/src/IO/GetChannel.java" />
-        <option value="$PROJECT_DIR$/src/IO/BufferToText.java" />
-        <option value="$PROJECT_DIR$/src/IO/SerialCtl.java" />
-        <option value="$PROJECT_DIR$/src/IO/MyWorld.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/threeSumClosest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/Jump.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/SweetShop.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/ShowMethods.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/SimpleProxyDemo.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/UniquePathsWithObstacles.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/RotateRight.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/ClassCasts.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/Test1.java" />
-        <option value="$PROJECT_DIR$/src/TypeInfo/DynamicProxyHandler.java" />
+        <option value="$PROJECT_DIR$/src/test/TestInterface.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/IsInterleave.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/NumTrees.java" />
+        <option value="$PROJECT_DIR$/src/test/CloneTest.java" />
         <option value="$PROJECT_DIR$/src/test/TryReturn.java" />
+        <option value="$PROJECT_DIR$/src/Generic/GenericReading.java" />
+        <option value="$PROJECT_DIR$/src/Generic/Node.java" />
+        <option value="$PROJECT_DIR$/src/Generic/Factroy.java" />
+        <option value="$PROJECT_DIR$/src/Generic/Factory.java" />
+        <option value="$PROJECT_DIR$/src/Generic/Part.java" />
+        <option value="$PROJECT_DIR$/src/Generic/GenericWriting.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MergeKLists.java" />
+        <option value="$PROJECT_DIR$/src/first/Selection.java" />
+        <option value="$PROJECT_DIR$/src/first/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/first/Shell.java" />
+        <option value="$PROJECT_DIR$/src/first/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/first/MergeSort1.java" />
+        <option value="$PROJECT_DIR$/src/util/TestSort.java" />
+        <option value="$PROJECT_DIR$/src/first/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/Annoation/FruitName.java" />
+        <option value="$PROJECT_DIR$/src/Annoation/FruitColor.java" />
+        <option value="$PROJECT_DIR$/src/Annoation/FruitProvider.java" />
+        <option value="$PROJECT_DIR$/src/Annoation/FruitInfoUnit.java" />
+        <option value="$PROJECT_DIR$/src/Annoation/Apple.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/TestCallable.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/TestJoinA.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/WaxMatic.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/TestWait.java" />
+        <option value="$PROJECT_DIR$/src/jianzhi/ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SearchMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/MyCallable.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/WaxOMatic2.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/CycllicBarrier.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/CycllicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/BlockQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/SemaphoreDemo.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/ExchangerDemo.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/FutureTaskDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/test1.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/AtomicDemo.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/GenerateTrees.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/DiffWaysToCompute.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/CallableTest.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/TestJoin.java" />
+        <option value="$PROJECT_DIR$/src/Concurrency/CountDownLatchExample.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/CheckPossibility.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MySqrt.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/SingleNonDuplicate.java" />
       </list>
     </option>
   </component>
@@ -140,6 +260,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,20 +278,18 @@
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559473936689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560695086481" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -190,13 +310,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TryReturn">
-    <configuration name="ClassCasts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeInfo.ClassCasts" />
+  <component name="RunManager" selected="Application.MySqrt">
+    <configuration name="AtomicDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.AtomicDemo" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TypeInfo.*" />
+          <option name="PATTERN" value="Concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +324,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DynamicProxyHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeInfo.DynamicProxyHandler" />
+    <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.CallableTest" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TypeInfo.*" />
+          <option name="PATTERN" value="Concurrency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,34 +337,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeInfo.Test1" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TypeInfo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TryReturn" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UniquePathsWithObstacles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.UniquePathsWithObstacles" />
+    <configuration name="DiffWaysToCompute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.DiffWaysToCompute" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -256,20 +350,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MySqrt" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.TestJoin" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ClassCasts" />
-      <item itemvalue="Application.UniquePathsWithObstacles" />
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.DynamicProxyHandler" />
-      <item itemvalue="Application.TryReturn" />
+      <item itemvalue="Application.AtomicDemo" />
+      <item itemvalue="Application.DiffWaysToCompute" />
+      <item itemvalue="Application.CallableTest" />
+      <item itemvalue="Application.TestJoin" />
+      <item itemvalue="Application.MySqrt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TryReturn" />
-        <item itemvalue="Application.DynamicProxyHandler" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.ClassCasts" />
-        <item itemvalue="Application.UniquePathsWithObstacles" />
+        <item itemvalue="Application.MySqrt" />
+        <item itemvalue="Application.TestJoin" />
+        <item itemvalue="Application.CallableTest" />
+        <item itemvalue="Application.DiffWaysToCompute" />
+        <item itemvalue="Application.AtomicDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -358,11 +478,29 @@
       <workItem from="1559315587355" duration="3107000" />
       <workItem from="1559348467347" duration="14049000" />
       <workItem from="1559434566366" duration="10592000" />
+      <workItem from="1559484909498" duration="3621000" />
+      <workItem from="1559521829250" duration="9022000" />
+      <workItem from="1559607755267" duration="789000" />
+      <workItem from="1559810133107" duration="911000" />
+      <workItem from="1559821000832" duration="3484000" />
+      <workItem from="1559867059750" duration="4552000" />
+      <workItem from="1559953234048" duration="5655000" />
+      <workItem from="1559968397407" duration="8454000" />
+      <workItem from="1560041162859" duration="3886000" />
+      <workItem from="1560045936331" duration="11200000" />
+      <workItem from="1560083326309" duration="13278000" />
+      <workItem from="1560176027097" duration="3578000" />
+      <workItem from="1560430977249" duration="1292000" />
+      <workItem from="1560472968125" duration="13483000" />
+      <workItem from="1560559868062" duration="5715000" />
+      <workItem from="1560602326024" duration="3679000" />
+      <workItem from="1560666434222" duration="2739000" />
+      <workItem from="1560672293347" duration="8752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="446699000" />
+    <option name="totallyTimeSpent" value="550789000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,10 +512,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.101265825" visible="true" weight="0.21849866" />
-      <window_info id="Structure" order="1" sideWeight="0.89873415" side_tool="true" weight="0.1997319" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.101265825" visible="true" weight="0.20107238" />
+      <window_info id="Structure" order="1" sideWeight="0.89873415" side_tool="true" weight="0.19839142" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -385,7 +524,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.5084986" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,395 +565,299 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Monney/EncrypAndDecryp.java">
+    <entry file="file://$PROJECT_DIR$/src/util/TestSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Monney/Pontifex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
+        <state relative-caret-position="250">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#622#623#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Monney/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/Monney/CommentWrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/MatrixInverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="53" column="72" selection-start-line="53" selection-start-column="72" selection-end-line="53" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/regex/Matcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="602" column="19" selection-start-line="602" selection-start-column="19" selection-end-line="602" selection-end-column="19" />
-          <folding>
-            <element signature="e#21591#21592#0" expanded="true" />
-            <element signature="e#21636#21637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/File.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="1153" column="20" selection-start-line="1153" selection-start-column="20" selection-end-line="1153" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/StringReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="47" column="11" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/DirList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/DirList2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/IsSameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/UsingRandomAccessFile.java" />
-    <entry file="file://$PROJECT_DIR$/src/IO/Directory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/BufferedInputFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/MemoryInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/regex/Pattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36081">
-          <caret line="1956" selection-start-line="1956" selection-end-line="1956" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/PPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/GetChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/StoringAndRecoveringData.java">
+    <entry file="file://$PROJECT_DIR$/src/first/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/FileOutputShortcut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/BasicFileOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/FormattedMemoryInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="364" column="17" lean-forward="true" selection-start-line="364" selection-start-column="17" selection-end-line="364" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/CharBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="578" column="31" selection-start-line="578" selection-start-column="31" selection-end-line="578" selection-end-column="31" />
-          <folding>
-            <element signature="e#27041#27042#0" expanded="true" />
-            <element signature="e#27089#27090#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/ByteBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="1580" column="31" selection-start-line="1580" selection-start-column="31" selection-end-line="1580" selection-end-column="31" />
-          <folding>
-            <element signature="e#12369#12370#0" expanded="true" />
-            <element signature="e#12420#12421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/SortedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="112" column="42" selection-start-line="112" selection-start-column="42" selection-end-line="112" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/nio/charset/Charset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="665" column="35" lean-forward="true" selection-start-line="665" selection-start-column="35" selection-end-line="665" selection-end-column="35" />
-          <folding>
-            <element signature="e#26418#26426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/BufferToText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="550" column="16" selection-start-line="550" selection-start-column="16" selection-end-line="550" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/IO/MyWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="2844" column="23" selection-start-line="2844" selection-start-column="23" selection-end-line="2844" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2075">
-          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/ShowMethods.java" />
-    <entry file="file://$PROJECT_DIR$/src/IO/SerialCtl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ThreeSumClosest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Multiply.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Jump.java">
+    <entry file="file://$PROJECT_DIR$/src/Annoation/FruitName.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/SweetShop.java">
+    <entry file="file://$PROJECT_DIR$/src/Annoation/FruitColor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/RotateRight.java">
+    <entry file="file://$PROJECT_DIR$/src/Annoation/FruitProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/UniquePathsWithObstacles.java">
+    <entry file="file://$PROJECT_DIR$/src/Annoation/FruitInfoUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Annoation/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jianzhi/ReConstructBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SearchMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/ClassCasts.java">
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/MyCallable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="228">
+          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/reflect/MethodAccessor.class">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/TimeUnit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="392">
+          <caret line="381" column="16" selection-start-line="381" selection-start-column="16" selection-end-line="381" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/Restaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="497" column="20" lean-forward="true" selection-start-line="497" selection-start-column="20" selection-end-line="497" selection-end-column="20" />
+        <state relative-caret-position="254">
+          <caret line="82" column="50" lean-forward="true" selection-start-line="82" selection-start-column="50" selection-end-line="82" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/SimpleProxyDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/ThreadUnsafeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/WaxMatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/WaxOMatic2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="57" column="12" lean-forward="true" selection-start-line="57" selection-start-column="12" selection-end-line="57" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1241#1242#0" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1799#1800#0" expanded="true" />
+            <element signature="e#1831#1832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1000">
+          <caret line="379" column="23" selection-start-line="379" selection-start-column="23" selection-end-line="379" selection-end-column="23" />
+          <folding>
+            <element signature="e#45599#45600#0" expanded="true" />
+            <element signature="e#45656#45657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/CycllicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/BlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TypeInfo/DynamicProxyHandler.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ArrayBlockingQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state relative-caret-position="76">
+          <caret line="78" column="19" lean-forward="true" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+          <folding>
+            <element signature="e#6812#6813#0" expanded="true" />
+            <element signature="e#6849#6850#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="428" column="11" selection-start-line="428" selection-start-column="11" selection-end-line="428" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="284" column="35" lean-forward="true" selection-start-line="284" selection-start-column="35" selection-end-line="284" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+          <folding>
+            <element signature="e#6303#6304#0" expanded="true" />
+            <element signature="e#6344#6345#0" expanded="true" />
+            <element signature="e#24977#24978#0" expanded="true" />
+            <element signature="e#25017#25018#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="3097" column="25" selection-start-line="3097" selection-start-column="25" selection-end-line="3097" selection-end-column="25" />
+          <folding>
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/BlockQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/SemaphoreDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/ExchangerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/FutureTaskDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#55#56#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/GenerateTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="45" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -823,15 +866,138 @@
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-582">
-          <caret line="544" column="34" lean-forward="true" selection-start-line="544" selection-start-column="34" selection-end-line="544" selection-end-column="39" />
+        <state relative-caret-position="9956">
+          <caret line="557" column="8" selection-start-line="557" selection-start-column="8" selection-end-line="557" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/TryReturn.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/DiffWaysToCompute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="388">
+          <caret line="34" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/AtomicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="62" column="44" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="381" column="76" lean-forward="true" selection-start-line="381" selection-start-column="76" selection-end-line="381" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/CallableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/TestWait.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/TestJoinA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/LiftOff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/TestJoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="1251" column="19" selection-start-line="1251" selection-start-column="19" selection-end-line="1251" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="300" column="16" selection-start-line="300" selection-start-column="16" selection-end-line="300" selection-end-column="16" />
+          <folding>
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+            <element signature="e#10139#10140#0" expanded="true" />
+            <element signature="e#10177#10178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Concurrency/CountDownLatchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/CheckPossibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MySqrt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/SingleNonDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
