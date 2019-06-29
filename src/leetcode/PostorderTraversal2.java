@@ -5,12 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Stack;
 
-public class PostorderTraversal {
+public class PostorderTraversal2 {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         Stack<TreeNode> s = new Stack<>();
-        s.push(root);
-        while (!s.isEmpty()) {
+        s.add(root);
+        while (!s.isEmpty()){
             TreeNode node = s.pop();
             if (node == null) continue;
             res.add(node.val);
